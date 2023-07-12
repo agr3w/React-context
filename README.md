@@ -10,6 +10,7 @@ Projeto desenvolvido apartir das aulas da Alura em React no curso: React: gerenc
 | :fire: Curso     | React: gerenciamento de estados globais com ContextAPI
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
+![Screenshot_3](https://github.com/agr3w/React-context/assets/91283681/3f937eff-47a6-4c59-b201-a679e214976f#vitrinedev)
 
 
 ## Detalhes do projeto
