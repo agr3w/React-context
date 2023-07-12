@@ -6,7 +6,7 @@ Projeto desenvolvido apartir das aulas da Alura em React no curso: React: gerenc
 | -------------  | --- |
 | :sparkles: Nome        | **ReactContext**
 | :label: Tecnologias | React
-| :rocket: URL         | [https://agr3w.github.io/MoniBank/](https://react-context-agr3w.vercel.app/)
+| :rocket: URL         | [https://agr3w.github.io/reactContext/](https://react-context-agr3w.vercel.app/)
 | :fire: Curso     | React: gerenciamento de estados globais com ContextAPI
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
